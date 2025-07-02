@@ -113,37 +113,6 @@ Hi! I’m a results-driven **Full-Stack Blockchain Developer** who turns bold id
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   </a>
 </p>
-
-### MERN Stack
-  
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  </a>
-</p>
-  
-### Frontend Development
-  
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
-  </a>
-</p>
   
 ### Blockchain Development
   
@@ -162,28 +131,6 @@ Hi! I’m a results-driven **Full-Stack Blockchain Developer** who turns bold id
   </a>
   <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Ethers.js-24A19C?style=for-the-badge" alt="ethers.js" />
-  </a>
-</p>
-  
-### Database
-  
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  </a>
-</p>
-  
-### Security & Auditing
-  
-<p align="center">
-  <a href="https://github.com/crytic/slither" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Slither-FF6B6B?style=for-the-badge" alt="slither" />
-  </a>
-  <a href="https://mythx.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MythX-652B19?style=for-the-badge" alt="mythx" />
   </a>
 </p>
 
