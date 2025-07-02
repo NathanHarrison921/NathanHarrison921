@@ -10,15 +10,3 @@
 </div>
 
 
-
-<div>
-<p align="center">
-
- <img src="https://badges.pufler.dev/repos/Kayleexx"/>
- <img src="https://badges.pufler.dev/commits/monthly/Kayleexx" />
-<img src="https://komarev.com/ghpvc/?username=Kayleexx&label=Profile%20views&color=0e75b6&style=flat" alt="Kayleexx" />
-
-</p>
-
-</div>
-
