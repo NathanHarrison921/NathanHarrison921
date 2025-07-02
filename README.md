@@ -34,18 +34,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Streak" height="150" />
+
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- Email: you@example.com
+- Portfolio: 
+- LinkedIn: 
+- Email: 
 
 ---
 
